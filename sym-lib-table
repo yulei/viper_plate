@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name rgb_led)(type Legacy)(uri ${KIPRJMOD}/rgb_led.lib)(options "")(descr ""))
+  (lib (name tm1812)(type Legacy)(uri ${KIPRJMOD}/tm1812.lib)(options "")(descr ""))
+)
